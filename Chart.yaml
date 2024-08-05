@@ -1,0 +1,5 @@
+apiVersion: v2
+name: karpenter-daemonset-priorityclass
+description: A Helm chart to create a PriorityClass for Karpenter DaemonSets
+version: 0.1.0
+appVersion: "1.0"

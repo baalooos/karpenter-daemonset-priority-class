@@ -1,0 +1,5 @@
+priorityClass:
+  name: karpenter-daemonset-priorityclass
+  value: 1000
+  globalDefault: false
+  description: "Priority class for Karpenter DaemonSets"
